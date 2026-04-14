@@ -1,3 +1,4 @@
+// Pipeline refresh: 2026-04-14T10:58 — source: ActBlue Nov2025–Apr2026, Email export 3919358782
 import { useState } from "react";
 
 const PASSWORD = "huf2026";
